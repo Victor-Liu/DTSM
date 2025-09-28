@@ -19,6 +19,11 @@ pip install cx_Oracle pymysql psycopg2 requests APScheduler
 
 如oracle-instantclient11.2-basic-11.2.0.4.0-1.x86_64.rpm
 
+# 修改config.ini配置文件，加入企微报警机器人地址和待监控数据库信息
+<img width="1127" height="641" alt="image" src="https://github.com/user-attachments/assets/6f7976fc-6f87-4e33-9fc1-a164d4037e97" />
+
+
+
 # 程序运行
 放入后台运行
 nohup python3 DTSM.py &
