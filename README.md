@@ -25,7 +25,9 @@ pip install cx_Oracle pymysql psycopg2 requests APScheduler
 
 
 # 程序运行
+
 放入后台运行
+
 nohup python3 DTSM.py &
 
 
